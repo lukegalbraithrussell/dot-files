@@ -1,0 +1,50 @@
+delete 
+shell vim Methods.tex
+shell vim methods.tex
+shell vim data.tex
+open_with 
+open_with
+shell vim Presentation.tex
+search down
+open_with vimdiff
+open_with vim
+abort 
+search system
+search user
+search Photome
+search main.tex
+shell vim resume.tex
+search *.pdf
+search .zsh
+search .xinitrc
+search .co[M`CHnfig
+search rofi
+shell vim rof/config
+shell vim rofi/config
+shell mkdir rofi
+shell vim config
+search Xres
+search Xre
+search oh
+search zsh
+/.config
+search zh
+search yaml
+q
+search git
+shell FireballLightCurveComparison.ipynb
+shell Pandas Example -> Thesis Length.ipynb
+shell Pandas Example .ipynb
+.ipynb
+shell .ipynb
+shell PandasExample.ipynb
+shell vim PandasExample.ipynb
+search latex
+search bashrc
+search vimrc
+search dotfiles
+search zshrc
+search .config
+search i3
+
+delete

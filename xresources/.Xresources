@@ -1,0 +1,29 @@
+!--- URxvt -----------------
+URxvt.buffered: true
+URxvt.cursorColor: #5E468C
+URxvt.cursorBlink: true
+URxvt.geometry: 60x40
+URxvt.transparent: true 
+!URxvt.font: xft:mono:size=12
+URxvt*urgentOnBell: true
+URxvt*letterSpace: 1
+URxvt.font:xft:DejaVu Sans Mono for Powerline:pixelsize=16:antialias=true:hinting=true
+!URxvt.font:xft:scientifica:size=30
+! Clickable Links!
+URxvt.perl-ext-common: default,matcher
+URxvt.urlLauncher: chromium
+URxvt.matcher.button: 2
+URxvt.matcher.pattern.1: \\bwww\\.[\\w-]\\.[\\w./?&@#-]*[\\w/-]
+
+!URxvt*blurRadius:15
+
+! borderless and no scrollbar
+URxvt.scrollBar_right: false
+URxvt.scrollBar: false
+URxvt.borderless: false
+
+!the transparency stuff
+URxvt*inheritPixmap: true 
+URxvt*tintcolor: white 
+URxvt*shading: 30
+
