@@ -187,8 +187,8 @@ bar {
 		background #000000
 	    separator $bg
 		#                  border             background   		#text
-		inactive_workspace  $fg      		  $fg			    $bg
-		focused_workspace   $bg            	  $bg	    		$fg
+		inactive_workspace  $bg      		  $bg			    $fg
+		focused_workspace   $fg            	  $fg	    		$bg
 		urgent_workspace   #FFFFFF00          #FFFFFF00    		$bg
 	}
 	position top

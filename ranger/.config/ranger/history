@@ -42,9 +42,9 @@ shell vim PandasExample.ipynb
 search latex
 search bashrc
 search vimrc
-search dotfiles
 search zshrc
 search .config
 search i3
-
 delete
+
+search dotfiles
