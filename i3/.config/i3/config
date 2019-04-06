@@ -93,7 +93,7 @@ bindsym $mod+space focus mode_toggle
 #bindsym $mod+d focus child
 
 #exec_always feh --bg-fill /home/luke/Pictures/Wallpapers/yourname3.jpg
-exec_always wal -i /home/luke/Pictures/Wallpapers/dreamy.jpg
+exec_always wal -i /home/luke/Pictures/Wallpapers/firewatchnight.jpg
 # switch to workspace
 bindsym $mod+1 workspace 1
 bindsym $mod+2 workspace 2
@@ -297,3 +297,5 @@ exec --no-startup-id xautolock -time 10 -corners 0+00 -cornerdelay 1 -cornerrede
 
 bindsym $mod+shift+l exec '~/.config/i3/i3lock.sh'
 
+#Press shift to input paranthesis
+#exec xcape -e 'Shift_L=braceleft;Shift_R=braceright'
