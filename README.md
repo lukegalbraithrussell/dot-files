@@ -17,4 +17,4 @@ dot files for arch/i3 setup
 
 
 
-<img src="/archscreenshot.png" width=300>
+<img src="/archscreenshot.png" width=50%>
